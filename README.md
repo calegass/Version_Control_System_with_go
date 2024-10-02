@@ -1,6 +1,6 @@
-### Projeto - Version Control System (Go)
+### Projeto - [Version Control System (Go)](https://hyperskill.org/projects/420)
 
-Este projeto é uma implementação de um sistema de controle de versão de arquivos, similar ao Git, em Go.
+Provided by Jetbrains Academy, ste projeto é uma implementação de um sistema de controle de versão de arquivos, similar ao Git, em Go.
 
 Aplicados conceitos de hash, árvore de diretórios e arquivos, e manipulação de arquivos para desenvolver uma aplicação CLI que pode rastrear alterações de arquivos.
 
