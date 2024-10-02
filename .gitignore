@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+*.gradle
+
+
+# idea config
+.idea
+
+# old stages
+/Version Control System (Go)/*
+!/Version Control System (Go)/task/
+/Version Control System (Go)/task/*
+!/Version Control System (Go)/task/main.go
